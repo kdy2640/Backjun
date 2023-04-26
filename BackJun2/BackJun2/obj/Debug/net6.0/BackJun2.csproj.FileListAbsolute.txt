@@ -1,0 +1,15 @@
+C:\Users\d2640\source\repos\BackJun2\BackJun2\bin\Debug\net6.0\BackJun2.exe
+C:\Users\d2640\source\repos\BackJun2\BackJun2\bin\Debug\net6.0\BackJun2.deps.json
+C:\Users\d2640\source\repos\BackJun2\BackJun2\bin\Debug\net6.0\BackJun2.runtimeconfig.json
+C:\Users\d2640\source\repos\BackJun2\BackJun2\bin\Debug\net6.0\BackJun2.dll
+C:\Users\d2640\source\repos\BackJun2\BackJun2\bin\Debug\net6.0\BackJun2.pdb
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.csproj.AssemblyReference.cache
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.AssemblyInfoInputs.cache
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.AssemblyInfo.cs
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.csproj.CoreCompileInputs.cache
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.dll
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\refint\BackJun2.dll
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.pdb
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\BackJun2.genruntimeconfig.cache
+C:\Users\d2640\source\repos\BackJun2\BackJun2\obj\Debug\net6.0\ref\BackJun2.dll
