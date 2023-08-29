@@ -1,0 +1,7 @@
+diff a/GitStudy/tigers.yaml b/GitStudy/tigers.yaml	(rejected hunks)
+@@ -10,2 +10,3 @@
+ - David
+\ No newline at end of file
+ - Tyler
++- Kim
+\ No newline at end of file
